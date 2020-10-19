@@ -49,9 +49,16 @@ main p {
 	max-width: 80%;
 }
 
-img.hero{
+.hero {
 	height: 50rem;
 	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+img {
+	max-width: 80vw;
 }
 
 main img {
