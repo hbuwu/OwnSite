@@ -1,6 +1,7 @@
 {% extends "layouts/base.html" %}
 
 {% block content %}
- 	<h2>{{ title }}</h2>
+   <h2>{{ title }}</h2>
+   <img src={{ heroImage }} alt="" class="hero">
   {{ content | safe }}
 {% endblock %}
