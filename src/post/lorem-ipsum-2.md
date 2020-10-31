@@ -1,12 +1,8 @@
 ---
-title: Lorem ipsum dolor sit amet
+title: Een tweede blogpost
 description: This is a post on My Blog about agile frameworks.
 date: 2020-09-10
-tags:
-  - tag1
-  - tag2
-categories: categorie2
-layout: 'layouts/post.html'
+tags: ['tag1', 'tag2', 'tag3', 'ux','design thinking']
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin feugiat viverra feugiat. Nulla mattis urna ac laoreet convallis. Mauris tempor lacinia condimentum. Fusce volutpat sollicitudin nunc, eu porttitor nulla varius non. Nam in sagittis purus, id volutpat turpis. Fusce nibh nulla, finibus sed enim vel, ullamcorper consectetur lectus. Donec sit amet augue augue. Proin eros lectus, pulvinar sit amet ligula ut, malesuada mattis sem. Mauris egestas tellus vitae quam pretium dictum hendrerit nec neque. Nullam id metus ultrices, tincidunt nisi in, congue arcu. Aliquam eu commodo massa. Fusce placerat orci vitae sollicitudin aliquet.

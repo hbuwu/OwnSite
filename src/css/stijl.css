@@ -1,5 +1,5 @@
 body {
-	width: 100vw;
+	width: 80vw;
 	margin: 5rem auto;
 	font-size: 2rem;
 	font-family: "helvetica neue",helvetica;
@@ -23,12 +23,12 @@ header nav ul li {
 }
 
 header nav ul li a {
-	color: rgb(34, 101, 178);
+	color: firebrick;
 }
 
 header nav ul li a.selected {
 	color: white;
-	background-color: rgb(34, 101, 178);
+	background-color: firebrick;
 }
 
 header {
@@ -44,21 +44,10 @@ main h2 {
 main p {
 	line-height: 3rem;
 	margin-bottom: 3rem;
-	margin-left: auto;
-	margin-right: auto;
-	max-width: 80%;
-}
-
-.hero {
-	height: 50rem;
-	width: 100%;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center;
 }
 
 img {
-	max-width: 80vw;
+	max-width: 100%;
 }
 
 main img {
@@ -73,7 +62,7 @@ main h3 {
 }
 
 main ul.blog li a {
-	color: rgb(34, 101, 178);
+	color: firebrick;
 }
 
 main ul.blog li {
@@ -82,12 +71,6 @@ main ul.blog li {
 
 main {
 	margin-bottom: 5rem;
-	text-align: center;
-}
-
-footer {
-	text-align: center;
-	font-size: 1.5rem;
 }
 
 @media (min-width: 800px) {
@@ -107,15 +90,5 @@ footer {
 		position: absolute;
 		top: 5.5rem;
 		right: 10vw;
-	}
-
-	header h1 {
-		position: absolute;
-		top: 5.5rem;
-		left: 10vw;
-	}
-
-	header {
-		height: 3rem;
 	}
 }
