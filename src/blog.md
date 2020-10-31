@@ -8,6 +8,7 @@ permalink: 'blog{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber
 paginationPrevText: 'Nieuwere posts'
 paginationNextText: 'Oudere posts'
 paginationAnchor: '#post-list'
+heroImage: '/img/11ty-logo.png'
 ---
 
 The latest articles from our design studio, demonstrating our design

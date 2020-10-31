@@ -1,7 +1,7 @@
 ---
 title: 'Een tweede kunstwerk'
 summary: 'Kortere beschrijving van mijn tweede werk'
-image: '/img/11ty-logo.png'
+heroImage: '/img/11ty-logo.png'
 displayOrder: 2
 featured: true
 layout: 'layouts/work.html'
