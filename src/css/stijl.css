@@ -2,6 +2,13 @@ body {
 	margin: 5rem auto;
 	font-size: 2rem;
 	font-family: "helvetica neue", helvetica;
+	background-color: aliceblue;
+}
+.headerimage {
+	position: absolute;
+	top: 3rem;
+	left: 10vw;
+	width: 10rem;
 }
 
 header h1 a {
